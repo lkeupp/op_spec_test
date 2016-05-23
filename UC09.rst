@@ -6,7 +6,6 @@ Use Case #9 Relationships between Aerosol and Cloud ECV
 :Problem Definition: A climate scientist wishes to analyse potential correlations between Aerosol and Cloud ECVs. 
 
 :Exemplary Workflow: 
-
 a)	The user selects CCI data products from a checklist. 
 b)	The user selects the operation :doc:`Reprojection <geometric-adjustment/ob_spec_reprojection>` from the operation category :doc:`Geometric Adjustment <geometric-adjustment/ob_spec_category_geometric-adjustments>`.
 c)	The user selects the particular options (reprojection method: cubic convolution, propagation of uncertainties analysis).
